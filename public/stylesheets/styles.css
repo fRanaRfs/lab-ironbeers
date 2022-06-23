@@ -6,6 +6,12 @@ grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
 
+
+.btnBeer {
+
+    text-align: center;
+}
+
 .footer {
 
     background-color: black;
